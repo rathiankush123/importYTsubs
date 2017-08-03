@@ -9,6 +9,8 @@ Import your YouTube channel subsciptions from one account to another.
 
 ### How to use?
 
+It's really simple.
+
 1. Download my python [script](https://github.com/rathiankush123/importYTsubs/blob/master/import_YouTube_subscriptions.py).
 
 2. Download [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads).
